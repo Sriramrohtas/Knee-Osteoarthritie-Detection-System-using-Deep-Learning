@@ -1,1 +1,1 @@
-# Knee-Osteoarthritie-Detection-System-using-Deep-Learning
+# Knee-Osteoarthritis-Detection-and-Severity-Prediction-System-
